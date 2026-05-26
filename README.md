@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish kumar Pal</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
-- 🌱 I’m currently learning **REACTjs ,NODEjs,DSA**
+- 🌱 I’m currently learning **FULLSTACK[MERN] ALONG WITH DSA**
 
 - 📫 How to reach me **jipal5212@gmail.com**
 
