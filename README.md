@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish kumar Pal</h1>
 <h3 align="center">A passionate competetive programmer from India</h3>
 
-- 🌱 I’m currently am buulding ai projects  ** ALONG WITH DSA #CPpaglu**
+- 🌱 I’m currently am building ai projects  ** ALONG WITH DSA #CPpaglu**
 
 - 📫 How to reach me **jipal5212@gmail.com**
 
